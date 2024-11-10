@@ -1,5 +1,8 @@
 # Credit_Card_Fraud_Project
 
+The dataset for this project is sourced from Kaggle and includes detailed transaction information for detecting credit card fraud. Due to its large size, it can be downloaded directly from Kaggle using the link below:
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
 CreditCardFraud Detection Project:
 -This repository contains a project on credit card fraud detection, utilizing SQL for data querying and Power BI for data visualization. The dataset spans transactions over a period of time, highlighting both fraudulent and non-fraudulent transactions.
 
